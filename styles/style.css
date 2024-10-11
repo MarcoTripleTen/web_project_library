@@ -337,11 +337,13 @@
 }
 
 .footer {
+  background-color: #1f1f1f;
   box-sizing: border-box;
+  color: #ffffff;
+  padding: 60px 80px;
 }
 
 .footer__columns {
-  margin: 60px 80px;
   display: flex;
 }
 
@@ -359,7 +361,7 @@
 }
 
 .footer__column-heading {
-  margin: 0;
+  margin: 0 0 20px;
 }
 
 .footer__list {
@@ -370,8 +372,7 @@
 }
 
 .footer__list-item {
-  margin: 20px 0;
-  gap: 16px;
+  margin-top: 16px;
 }
 
 .footer__column-link {
@@ -382,6 +383,7 @@
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer__copyright {
