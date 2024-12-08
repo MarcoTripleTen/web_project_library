@@ -51,12 +51,11 @@ Este proyecto fue desarrollado como parte del programa de Desarrollo Web de Trip
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor, realiza un fork del repositorio, crea una nueva rama para tus cambios y envía un pull request.
 
 ## Realiza un fork del proyecto.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit de ellos (git commit -m 'Agregar nueva funcionalidad').
-Envía tus cambios al repositorio remoto (git push origin feature/nueva-funcionalidad).
-Abre un pull request.
-Licencia
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+1. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+2. Realiza tus cambios y haz commit de ellos (git commit -m 'Agregar nueva funcionalidad').
+3. Envía tus cambios al repositorio remoto (git push origin feature/nueva-funcionalidad).
+4. Abre un pull request.
+
 
 Nota: Este proyecto es una representación ficticia creada con fines educativos y no está afiliado a ninguna biblioteca real.
 
